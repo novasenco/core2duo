@@ -1,0 +1,4 @@
+/env/
+/src/core2.egg-info/
+src/core2/__pycache__/
+src/core2/logs/
